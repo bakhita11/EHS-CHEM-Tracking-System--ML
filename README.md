@@ -180,8 +180,4 @@ cleaned exports both work.
 
 ---
 
-## License
-
-Add a license before this repository is cited in a submitted manuscript. Without one, others
-may read the code but have no right to run or adapt it. MIT or BSD-3-Clause is conventional
-for research code.
+ 
